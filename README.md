@@ -43,6 +43,8 @@ Welcome to the Application Tracking System project! This platform is designed to
 
 2. Open your web browser and go to `http://localhost:8501` to access the Application Tracking System.
 ---
-![Application Tracking System Logo](images/logo.png)
+![Application Tracking System Logo](Screenshot.jpg)
+![Application Tracking System Logo](new.jpg)
+![Application Tracking System Logo](output.jpg)
 
 Feel free to modify this README as needed for your specific project details and requirements.
